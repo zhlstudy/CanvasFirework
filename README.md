@@ -1,0 +1,2 @@
+# CanvasFirework
+在html中用canvas标签实现在屏幕中用鼠标点击有类似烟花的效果！
